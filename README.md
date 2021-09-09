@@ -1,12 +1,7 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+### Olá! Eu sou o Gabriel Silva
 
 - Atualmente sou Estudante Universitário
 - Estou aprendendo Python
-- Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/G4brielSilva">
