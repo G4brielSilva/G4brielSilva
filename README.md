@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Gabriel Silva
 
+- Tenho 19 anos
 - Atualmente sou Estudante Universitário
-- Estou aprendendo Python
+- Estou aprendendo Python e Typescript
 
 <div>
   <a href="https://github.com/G4brielSilva">
