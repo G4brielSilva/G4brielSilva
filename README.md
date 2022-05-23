@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Silva
 
-- Tenho 19 anos
+- Tenho 20 anos
 - Atualmente sou Estudante Universitário
 - Estou aprendendo Python e Typescript
 
