@@ -2,7 +2,7 @@
 
 - Tenho 20 anos
 - Atualmente sou Estudante Universitário
-- Estou aprendendo Python e Typescript
+- Estou aprendendo JavaScript e Typescript
 
 <div>
   <a href="https://github.com/G4brielSilva">
